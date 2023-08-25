@@ -24,3 +24,15 @@ If you want to test this project on your local machine, follow these steps:
 2. **Migrate and Seed the Database:**
    ```bash
    php artisan migrate:fresh --seed
+3. **Compile the frontend assets:**
+   ```bash
+   npm run build
+4. **Now you can run the project and test it in your machine:**
+## Contribution
+Feel free to contribute to this project by submitting issues or pull requests.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+
+## Contact
+For any queries or further information, please contact me
