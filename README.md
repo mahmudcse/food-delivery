@@ -19,6 +19,8 @@ This project is a comprehensive food delivery system, built with a focus on effi
 If you want to test this project on your local machine, follow these steps:
 
 1. **Clone the Project:** Clone the repository to your local machine.
+    ```bash
+    git clone https://github.com/mahmudcse/food-delivery.git
 2. **Migrate and Seed the Database:**
    ```bash
    php artisan migrate:fresh --seed
